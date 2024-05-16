@@ -28,3 +28,5 @@ The following proof-of-concept tools are included in RMosaic by default.
 To support the development of Reverse Mosaic all supporters of [User1342](https://github.com/sponsors/user1342) gain access to the following tools immediatly via private GitHub repos that can be added as git-submodules. 
 - 💻 **Code Analysis**: A CodeGemma LLM tool designed for explaining and writing code as tasked by the agent.
 
+# ➡️ Get Started
+Get started with [Reverse Mosaic](https://github.com/Reverse-Mosaic/Reverse-Mosaic)!
